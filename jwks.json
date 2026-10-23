@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "ecw-poc-1",
+      "n": "o7dXiQ2U77sqHiJSaxqN2Zcp6hlD3qbupqr0alnL-IWfgI6RxGT9L4UIsOQCqTSVyTDdmBPZNjUmXaoPeZm7Mo8m9f2bvto3yz8QfZ-0ay2NJ4HiCJRIwYSOtCEXjCEcmro1MdTOTIpsKvweTNljSMU9Jb73boOFX4DM826v3uitTlj8lVXpClCM6BXVgX4gojft8U5T0d6DJdh099m-JTTOeYvFxaCdHug3qzZvlZiT5kK5A-NT30LtXslIflqESWiV5kMJQzdECqfSBEmHtI0f58t8ZMt9Mfh5m2D-CZkepNlfZqtgOjBedkiHJBTbGJgcC0zh99iKyO8GUzic6Q",
+      "e": "AQAB"
+    }
+  ]
+}
