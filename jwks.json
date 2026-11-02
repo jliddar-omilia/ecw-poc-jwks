@@ -7,6 +7,14 @@
       "kid": "ecw-poc-1",
       "n": "o7dXiQ2U77sqHiJSaxqN2Zcp6hlD3qbupqr0alnL-IWfgI6RxGT9L4UIsOQCqTSVyTDdmBPZNjUmXaoPeZm7Mo8m9f2bvto3yz8QfZ-0ay2NJ4HiCJRIwYSOtCEXjCEcmro1MdTOTIpsKvweTNljSMU9Jb73boOFX4DM826v3uitTlj8lVXpClCM6BXVgX4gojft8U5T0d6DJdh099m-JTTOeYvFxaCdHug3qzZvlZiT5kK5A-NT30LtXslIflqESWiV5kMJQzdECqfSBEmHtI0f58t8ZMt9Mfh5m2D-CZkepNlfZqtgOjBedkiHJBTbGJgcC0zh99iKyO8GUzic6Q",
       "e": "AQAB"
+    },
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "ecw-poc-box-1",
+      "n": "-R37D7HW1F0XTFkyRR7nxhPYp9ZsA0gLz6e_3mv2F7wYnCxqeCILGxfGFCBXAU5cDbN81EkphIZFg224nYOFi2EVpvNADy6YxHV5-l58jnhh2ufQS6QMCnRBMlTES3YL09zdUIEbCXRvzViQmz-15AKN032xH-F2NsokrAbgKdi2sT7Y38enW74__ZJCI-8O1rGifuAjlgS1Ldc8LCb-H4jwX1lAOf1Hgb5_D5SaB1t7Rm9Pn-HWU-xzWNjHgHE_ECSsmVKso9on46s4vaagzp_KARRs22ciUmrrBuL4BKWX0MxcF8PObvArXQKJ9OuLqqU9lxWtArRIm1BfxLLqIw",
+      "e": "AQAB"
     }
   ]
 }
